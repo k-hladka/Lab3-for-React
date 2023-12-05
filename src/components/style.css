@@ -1,0 +1,19 @@
+.formParent{
+    float: left;
+    margin: 20px;
+    text-align: left;
+}
+.formParent button{
+    margin-top: 15px;
+}
+.errorSpan{
+    color: rgba(255, 0, 0, 0.71);
+    font-size: 0.9em;
+}
+.portal{
+    border: 1px solid;
+    float: right;
+    margin: 20px 5% 0 0;
+    text-align: left;
+    padding: 3px;
+}
